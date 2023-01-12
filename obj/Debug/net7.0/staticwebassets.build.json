@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sh5z91lEG3dNzfTUAHOcQPjOvYfy1nj/ukrbvFj6xPs=",
+  "Source": "vscode-docker",
+  "BasePath": "_content/vscode-docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
